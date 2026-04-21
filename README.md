@@ -121,7 +121,7 @@ Sentiment classification on text data using NLP techniques.
 
 ## 🏅 Achievements & Certifications
 
-- 🧩 **LeetCode** – 350+ problems solved | 100 Days Badge 2025 & 365 Days Badge
+- 🧩 **LeetCode** – 425+ problems solved | 100 Days Badge 2025 & 365 Days Badge
 - ⭐ **HackerRank** – 5-Star in Problem Solving, Java, and Python
 - 🏁 **Sushacks 2025** – Nationwide Innovation Hackathon Participant
 - 📜 **NPTEL Elite** – The Joy of Computing Using Python (IIT Madras)
