@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bharath13925&label=Profile%20views&color=0e75b6&style=flat" alt="bharath13925" />
-  <a href="https://leetcode.com/u/bharath131006/"><img src="https://img.shields.io/badge/LeetCode-4252B%20Problems-orange?style=flat&logo=leetcode" /></a>
+  <a href="https://leetcode.com/u/bharath131006/"><img src="https://img.shields.io/badge/LeetCode-425%20Problems-orange?style=flat&logo=leetcode" /></a>
   <a href="https://www.hackerrank.com/profile/bharathbandi1391"><img src="https://img.shields.io/badge/HackerRank-5★-brightgreen?style=flat&logo=hackerrank" /></a>
 </p>
 
